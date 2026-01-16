@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: loksai-eta-container
-        image: loksaieta/plwebappimg:v1.0
+        image: loksaieta/plwebappimg:v2.0
         ports:
         - containerPort: 8080
 ---
